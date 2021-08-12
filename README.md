@@ -234,7 +234,7 @@ key | description
  fontColorHex | Font Color eg. "#0000FF"
  rotation (degree) | rotation of text eg. 50, rotation varies from ``-90 to 90``, with including ``90`` and ``-90``
  backgroundColorHex | Background color of cell eg. "#faf487"
- wrap | Text wrapping ``enum TextWrapping { WrapText, Clip }`` eg. TextWrapping.Clip
+ textWrapping | Text wrapping ``enum TextWrapping { WrapText, Clip }`` eg. TextWrapping.Clip
  verticalAlign | align text vertically ``enum VerticalAlign { Top, Center, Bottom }`` eg. VerticalAlign.Top
  horizontalAlign | align text horizontally ``enum HorizontalAlign { Left, Center, Right }`` eg. HorizontalAlign.Right
 
